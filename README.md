@@ -1,1 +1,1 @@
-https://github.com/minhazulislam501/MINIMO-Project.git
+https://minhazulislam501.github.io/MINIMO-Project/
